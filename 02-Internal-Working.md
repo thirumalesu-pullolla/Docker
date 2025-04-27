@@ -1,7 +1,3 @@
-# 📚 Docker - Session 2 Notes
-
----
-
 ## 🛠️ Traditional Deployment Problems
 
 - App needed manual setup: OS, libraries, versions, configs.
